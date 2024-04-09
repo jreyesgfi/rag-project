@@ -1,5 +1,5 @@
-﻿The Project Gutenberg eBook of Alice's Adventures in Wonderland
-    
+The Project Gutenberg eBook of Alice's Adventures in Wonderland
+
 This ebook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
 whatsoever. You may copy it, give it away or re-use it under the terms
@@ -13,18 +13,14 @@ Title: Alice's Adventures in Wonderland
 Author: Lewis Carroll
 
 Release date: June 27, 2008 [eBook #11]
-                Most recently updated: February 4, 2024
+Most recently updated: March 30, 2021
 
 Language: English
 
 Credits: Arthur DiBianca and David Widger
 
-
-*** START OF THE PROJECT GUTENBERG EBOOK ALICE'S ADVENTURES IN WONDERLAND ***
+**_ START OF THE PROJECT GUTENBERG EBOOK ALICE'S ADVENTURES IN WONDERLAND _**
 [Illustration]
-
-
-
 
 Alice’s Adventures in Wonderland
 
@@ -34,25 +30,21 @@ THE MILLENNIUM FULCRUM EDITION 3.0
 
 Contents
 
- CHAPTER I.     Down the Rabbit-Hole
- CHAPTER II.    The Pool of Tears
- CHAPTER III.   A Caucus-Race and a Long Tale
- CHAPTER IV.    The Rabbit Sends in a Little Bill
- CHAPTER V.     Advice from a Caterpillar
- CHAPTER VI.    Pig and Pepper
- CHAPTER VII.   A Mad Tea-Party
- CHAPTER VIII.  The Queen’s Croquet-Ground
- CHAPTER IX.    The Mock Turtle’s Story
- CHAPTER X.     The Lobster Quadrille
- CHAPTER XI.    Who Stole the Tarts?
- CHAPTER XII.   Alice’s Evidence
-
-
-
+CHAPTER I. Down the Rabbit-Hole
+CHAPTER II. The Pool of Tears
+CHAPTER III. A Caucus-Race and a Long Tale
+CHAPTER IV. The Rabbit Sends in a Little Bill
+CHAPTER V. Advice from a Caterpillar
+CHAPTER VI. Pig and Pepper
+CHAPTER VII. A Mad Tea-Party
+CHAPTER VIII. The Queen’s Croquet-Ground
+CHAPTER IX. The Mock Turtle’s Story
+CHAPTER X. The Lobster Quadrille
+CHAPTER XI. Who Stole the Tarts?
+CHAPTER XII. Alice’s Evidence
 
 CHAPTER I.
 Down the Rabbit-Hole
-
 
 Alice was beginning to get very tired of sitting by her sister on the
 bank, and of having nothing to do: once or twice she had peeped into
@@ -203,12 +195,11 @@ taste it, and finding it very nice, (it had, in fact, a sort of mixed
 flavour of cherry-tart, custard, pine-apple, roast turkey, toffee, and
 hot buttered toast,) she very soon finished it off.
 
-*      *      *      *      *      *      *
+---
 
     *      *      *      *      *      *
 
-*      *      *      *      *      *      *
-
+---
 
 “What a curious feeling!” said Alice; “I must be shutting up like a
 telescope.”
@@ -260,18 +251,14 @@ on in the common way.
 
 So she set to work, and very soon finished off the cake.
 
-*      *      *      *      *      *      *
+---
 
     *      *      *      *      *      *
 
-*      *      *      *      *      *      *
-
-
-
+---
 
 CHAPTER II.
 The Pool of Tears
-
 
 “Curiouser and curiouser!” cried Alice (she was so much surprised, that
 for the moment she quite forgot how to speak good English); “now I’m
@@ -345,15 +332,14 @@ to repeat it, but her voice sounded hoarse and strange, and the words
 did not come the same as they used to do:—
 
 “How doth the little crocodile
-    Improve his shining tail,
+Improve his shining tail,
 And pour the waters of the Nile
-    On every golden scale!
+On every golden scale!
 
 “How cheerfully he seems to grin,
-    How neatly spread his claws,
+How neatly spread his claws,
 And welcome little fishes in
-    With gently smiling jaws!”
-
+With gently smiling jaws!”
 
 “I’m sure those are not the right words,” said poor Alice, and her eyes
 filled with tears again as she went on, “I must be Mabel after all, and
@@ -471,12 +457,8 @@ birds and animals that had fallen into it: there were a Duck and a
 Dodo, a Lory and an Eaglet, and several other curious creatures. Alice
 led the way, and the whole party swam to the shore.
 
-
-
-
 CHAPTER III.
 A Caucus-Race and a Long Tale
-
 
 They were indeed a queer-looking party that assembled on the bank—the
 birds with draggled feathers, the animals with their fur clinging close
@@ -681,12 +663,8 @@ little pattering of footsteps in the distance, and she looked up
 eagerly, half hoping that the Mouse had changed his mind, and was
 coming back to finish his story.
 
-
-
-
 CHAPTER IV.
 The Rabbit Sends in a Little Bill
-
 
 It was the White Rabbit, trotting slowly back again, and looking
 anxiously about as it went, as if it had lost something; and she heard
@@ -945,12 +923,8 @@ caterpillar, that was sitting on the top with its arms folded, quietly
 smoking a long hookah, and taking not the smallest notice of her or of
 anything else.
 
-
-
-
 CHAPTER V.
 Advice from a Caterpillar
-
 
 The Caterpillar and Alice looked at each other for some time in
 silence: at last the Caterpillar took the hookah out of its mouth, and
@@ -1031,45 +1005,44 @@ came different!” Alice replied in a very melancholy voice.
 Alice folded her hands, and began:—
 
 “You are old, Father William,” the young man said,
-    “And your hair has become very white;
+“And your hair has become very white;
 And yet you incessantly stand on your head—
-    Do you think, at your age, it is right?”
+Do you think, at your age, it is right?”
 
 “In my youth,” Father William replied to his son,
-    “I feared it might injure the brain;
+“I feared it might injure the brain;
 But, now that I’m perfectly sure I have none,
-    Why, I do it again and again.”
+Why, I do it again and again.”
 
 “You are old,” said the youth, “as I mentioned before,
-    And have grown most uncommonly fat;
+And have grown most uncommonly fat;
 Yet you turned a back-somersault in at the door—
-    Pray, what is the reason of that?”
+Pray, what is the reason of that?”
 
 “In my youth,” said the sage, as he shook his grey locks,
-    “I kept all my limbs very supple
+“I kept all my limbs very supple
 By the use of this ointment—one shilling the box—
-    Allow me to sell you a couple?”
+Allow me to sell you a couple?”
 
 “You are old,” said the youth, “and your jaws are too weak
-    For anything tougher than suet;
+For anything tougher than suet;
 Yet you finished the goose, with the bones and the beak—
-    Pray, how did you manage to do it?”
+Pray, how did you manage to do it?”
 
 “In my youth,” said his father, “I took to the law,
-    And argued each case with my wife;
+And argued each case with my wife;
 And the muscular strength, which it gave to my jaw,
-    Has lasted the rest of my life.”
+Has lasted the rest of my life.”
 
 “You are old,” said the youth, “one would hardly suppose
-    That your eye was as steady as ever;
+That your eye was as steady as ever;
 Yet you balanced an eel on the end of your nose—
-    What made you so awfully clever?”
+What made you so awfully clever?”
 
 “I have answered three questions, and that is enough,”
-    Said his father; “don’t give yourself airs!
+Said his father; “don’t give yourself airs!
 Do you think I can listen all day to such stuff?
-    Be off, or I’ll kick you down stairs!”
-
+Be off, or I’ll kick you down stairs!”
 
 “That is not said right,” said the Caterpillar.
 
@@ -1136,12 +1109,11 @@ so closely against her foot, that there was hardly room to open her
 mouth; but she did it at last, and managed to swallow a morsel of the
 lefthand bit.
 
-*      *      *      *      *      *      *
+---
 
     *      *      *      *      *      *
 
-*      *      *      *      *      *      *
-
+---
 
 “Come, my head’s free at last!” said Alice in a tone of delight, which
 changed into alarm in another moment, when she found that her shoulders
@@ -1244,12 +1216,8 @@ _this_ size: why, I should frighten them out of their wits!” So she
 began nibbling at the righthand bit again, and did not venture to go
 near the house till she had brought herself down to nine inches high.
 
-
-
-
 CHAPTER VI.
 Pig and Pepper
-
 
 For a minute or two she stood looking at the house, and wondering what
 to do next, when suddenly a footman in livery came running out of the
@@ -1394,33 +1362,27 @@ sort of lullaby to it as she did so, and giving it a violent shake at
 the end of every line:
 
 “Speak roughly to your little boy,
-    And beat him when he sneezes:
+And beat him when he sneezes:
 He only does it to annoy,
-    Because he knows it teases.”
-
+Because he knows it teases.”
 
 CHORUS.
 (In which the cook and the baby joined):
 
-
 “Wow! wow! wow!”
-
 
 While the Duchess sang the second verse of the song, she kept tossing
 the baby violently up and down, and the poor little thing howled so,
 that Alice could hardly hear the words:—
 
 “I speak severely to my boy,
-    I beat him when he sneezes;
+I beat him when he sneezes;
 For he can thoroughly enjoy
-    The pepper when he pleases!”
-
+The pepper when he pleases!”
 
 CHORUS.
 
-
 “Wow! wow! wow!”
-
 
 “Here! you may nurse it a bit, if you like!” the Duchess said to Alice,
 flinging the baby at her as she spoke. “I must go and get ready to play
@@ -1571,12 +1533,8 @@ to about two feet high: even then she walked up towards it rather
 timidly, saying to herself “Suppose it should be raving mad after all!
 I almost wish I’d gone to see the Hatter instead!”
 
-
-
-
 CHAPTER VII.
 A Mad Tea-Party
-
 
 There was a table set out under a tree in front of the house, and the
 March Hare and the Hatter were having tea at it: a Dormouse was sitting
@@ -1734,7 +1692,6 @@ given by the Queen of Hearts, and I had to sing
 ‘Twinkle, twinkle, little bat!
 How I wonder what you’re at!’
 
-
 You know the song, perhaps?”
 
 “I’ve heard something like it,” said Alice.
@@ -1743,8 +1700,7 @@ You know the song, perhaps?”
 
 ‘Up above the world you fly,
 Like a tea-tray in the sky.
-                    Twinkle, twinkle—’”
-
+Twinkle, twinkle—’”
 
 Here the Dormouse shook itself, and began singing in its sleep
 “_Twinkle, twinkle, twinkle, twinkle_—” and went on so long that they
@@ -1916,12 +1872,8 @@ high: then she walked down the little passage: and _then_—she found
 herself at last in the beautiful garden, among the bright flower-beds
 and the cool fountains.
 
-
-
-
 CHAPTER VIII.
 The Queen’s Croquet-Ground
-
 
 A large rose-tree stood near the entrance of the garden: the roses
 growing on it were white, but there were three gardeners at it, busily
@@ -2224,12 +2176,8 @@ time he had come back with the Duchess, it had entirely disappeared; so
 the King and the executioner ran wildly up and down looking for it,
 while the rest of the party went back to the game.
 
-
-
-
 CHAPTER IX.
 The Mock Turtle’s Story
-
 
 “You can’t think how glad I am to see you again, you dear old thing!”
 said the Duchess, as she tucked her arm affectionately into Alice’s,
@@ -2546,12 +2494,8 @@ a holiday?”
 “That’s enough about lessons,” the Gryphon interrupted in a very
 decided tone: “tell her something about the games now.”
 
-
-
-
 CHAPTER X.
 The Lobster Quadrille
-
 
 The Mock Turtle sighed deeply, and drew the back of one flapper across
 his eyes. He looked at Alice, and tried to speak, but for a minute or
@@ -2638,7 +2582,6 @@ The further off from England the nearer is to France—
 Then turn not pale, beloved snail, but come and join the dance.
 Will you, won’t you, will you, won’t you, will you join the dance?
 Will you, won’t you, will you, won’t you, won’t you join the dance?”
-
 
 “Thank you, it’s a very interesting dance to watch,” said Alice,
 feeling very glad that it was over at last: “and I do so like that
@@ -2755,7 +2698,6 @@ And will talk in contemptuous tones of the Shark,
 But, when the tide rises and sharks are around,
 His voice has a timid and tremulous sound.]
 
-
 “That’s different from what _I_ used to say when I was a child,” said
 the Gryphon.
 
@@ -2793,7 +2735,6 @@ Was kindly permitted to pocket the spoon:
 While the Panther received knife and fork with a growl,
 And concluded the banquet—]
 
-
 “What _is_ the use of repeating all that stuff,” the Mock Turtle
 interrupted, “if you don’t explain it as you go on? It’s by far the
 most confusing thing _I_ ever heard!”
@@ -2817,21 +2758,20 @@ Waiting in a hot tureen!
 Who for such dainties would not stoop?
 Soup of the evening, beautiful Soup!
 Soup of the evening, beautiful Soup!
-    Beau—ootiful Soo—oop!
-    Beau—ootiful Soo—oop!
+Beau—ootiful Soo—oop!
+Beau—ootiful Soo—oop!
 Soo—oop of the e—e—evening,
-    Beautiful, beautiful Soup!
+Beautiful, beautiful Soup!
 
 “Beautiful Soup! Who cares for fish,
 Game, or any other dish?
 Who would not give all else for two p
 ennyworth only of beautiful Soup?
 Pennyworth only of beautiful Soup?
-    Beau—ootiful Soo—oop!
-    Beau—ootiful Soo—oop!
+Beau—ootiful Soo—oop!
+Beau—ootiful Soo—oop!
 Soo—oop of the e—e—evening,
-    Beautiful, beauti—FUL SOUP!”
-
+Beautiful, beauti—FUL SOUP!”
 
 “Chorus again!” cried the Gryphon, and the Mock Turtle had just begun
 to repeat it, when a cry of “The trial’s beginning!” was heard in the
@@ -2845,14 +2785,10 @@ answered “Come on!” and ran the faster, while more and more faintly
 came, carried on the breeze that followed them, the melancholy words:—
 
 “Soo—oop of the e—e—evening,
-    Beautiful, beautiful Soup!”
-
-
-
+Beautiful, beautiful Soup!”
 
 CHAPTER XI.
 Who Stole the Tarts?
-
 
 The King and Queen of Hearts were seated on their throne when they
 arrived, with a great crowd assembled about them—all sorts of little
@@ -2915,10 +2851,9 @@ On this the White Rabbit blew three blasts on the trumpet, and then
 unrolled the parchment scroll, and read as follows:—
 
 “The Queen of Hearts, she made some tarts,
-    All on a summer day:
+All on a summer day:
 The Knave of Hearts, he stole those tarts,
-    And took them quite away!”
-
+And took them quite away!”
 
 “Consider your verdict,” the King said to the jury.
 
@@ -3109,12 +3044,8 @@ haven’t got much evidence _yet_,” she said to herself. Imagine her
 surprise, when the White Rabbit read out, at the top of his shrill
 little voice, the name “Alice!”
 
-
-
-
 CHAPTER XII.
 Alice’s Evidence
-
 
 “Here!” cried Alice, quite forgetting in the flurry of the moment how
 large she had grown in the last few minutes, and she jumped up in such
@@ -3157,11 +3088,11 @@ court.
 
 “That’s very important,” the King said, turning to the jury. They were
 just beginning to write this down on their slates, when the White
-Rabbit interrupted: “_Un_important, your Majesty means, of course,” he
+Rabbit interrupted: “\_Un_important, your Majesty means, of course,” he
 said in a very respectful tone, but frowning and making faces at him as
 he spoke.
 
-“_Un_important, of course, I meant,” the King hastily said, and went on
+“\_Un_important, of course, I meant,” the King hastily said, and went on
 to himself in an undertone,
 
 “important—unimportant—unimportant—important—” as if he were trying
@@ -3245,35 +3176,34 @@ come to the end: then stop.”
 These were the verses the White Rabbit read:—
 
 “They told me you had been to her,
-    And mentioned me to him:
+And mentioned me to him:
 She gave me a good character,
-    But said I could not swim.
+But said I could not swim.
 
 He sent them word I had not gone
-    (We know it to be true):
+(We know it to be true):
 If she should push the matter on,
-    What would become of you?
+What would become of you?
 
 I gave her one, they gave him two,
-    You gave us three or more;
+You gave us three or more;
 They all returned from him to you,
-    Though they were mine before.
+Though they were mine before.
 
 If I or she should chance to be
-    Involved in this affair,
+Involved in this affair,
 He trusts to you to set them free,
-    Exactly as we were.
+Exactly as we were.
 
 My notion was that you had been
-    (Before she had this fit)
+(Before she had this fit)
 An obstacle that came between
-    Him, and ourselves, and it.
+Him, and ourselves, and it.
 
 Don’t let him know she liked them best,
-    For this must ever be
+For this must ever be
 A secret, kept from all the rest,
-    Between yourself and me.”
-
+Between yourself and me.”
 
 “That’s the most important piece of evidence we’ve heard yet,” said the
 King, rubbing his hands; “so now let the jury—”
@@ -3354,7 +3284,6 @@ dream, dear, certainly: but now run in to your tea; it’s getting late.”
 So Alice got up and ran off, thinking while she ran, as well she might,
 what a wonderful dream it had been.
 
-
 But her sister sat still just as she left her, leaning her head on her
 hand, watching the setting sun, and thinking of little Alice and all
 her wonderful Adventures, till she too began dreaming after a fashion,
@@ -3402,11 +3331,8 @@ days.
 
 THE END
 
+            *** END OF THE PROJECT GUTENBERG EBOOK ALICE'S ADVENTURES IN WONDERLAND ***
 
-*** END OF THE PROJECT GUTENBERG EBOOK ALICE'S ADVENTURES IN WONDERLAND ***
-
-
-    
 
 Updated editions will replace the previous one—the old editions will
 be renamed.
@@ -3429,7 +3355,6 @@ Gutenberg eBooks may be modified and printed and given away—you may
 do practically ANYTHING in the United States with eBooks not protected
 by U.S. copyright law. Redistribution is subject to the trademark
 license, especially commercial redistribution.
-
 
 START: FULL LICENSE
 
@@ -3511,7 +3436,7 @@ performed, viewed, copied or distributed:
     at www.gutenberg.org. If you
     are not located in the United States, you will have to check the laws
     of the country where you are located before using this eBook.
-  
+
 1.E.2. If an individual Project Gutenberg™ electronic work is
 derived from texts not protected by U.S. copyright law (does not
 contain a notice indicating that it is posted with permission of the
@@ -3573,7 +3498,7 @@ provided that:
         Gutenberg Literary Archive Foundation at the address specified in
         Section 4, “Information about donations to the Project Gutenberg
         Literary Archive Foundation.”
-    
+
     • You provide a full refund of any money paid by a user who notifies
         you in writing (or by e-mail) within 30 days of receipt that s/he
         does not agree to the terms of the full Project Gutenberg™
@@ -3581,15 +3506,14 @@ provided that:
         copies of the works possessed in a physical medium and discontinue
         all use of and all access to other copies of Project Gutenberg™
         works.
-    
+
     • You provide, in accordance with paragraph 1.F.3, a full refund of
         any money paid for a work or a replacement copy, if a defect in the
         electronic work is discovered and reported to you within 90 days of
         receipt of the work.
-    
+
     • You comply with all other terms of this agreement for free
         distribution of Project Gutenberg™ works.
-    
 
 1.E.9. If you wish to charge a fee or distribute a Project
 Gutenberg™ electronic work or group of works on different terms than
@@ -3752,5 +3676,3 @@ This website includes information about Project Gutenberg™,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
-
-
